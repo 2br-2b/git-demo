@@ -26,5 +26,6 @@ int main() {
 			break;
 	}
 	std::cout << "The result is " << r << std::endl;
+	std::cout << "Goodybe" << std::endl;
 	return 0;
 }
